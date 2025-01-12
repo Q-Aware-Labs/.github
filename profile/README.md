@@ -1,6 +1,6 @@
 # Q-Aware Labs
 
-👋## About Us
+## 👋 About Us
 Q-Aware Labs is dedicated to advancing the quality, safety, and reliability of artificial intelligence systems through rigorous testing, ethical safeguards, and data quality improvements. Our mission is to help organizations build more robust, reliable, and responsible AI solutions.
 
 ## Our Focus Areas
@@ -12,35 +12,35 @@ We develop frameworks, tools, and methodologies for comprehensive AI system test
 - Consistency evaluation across model versions
 - Behavioral testing for expected outputs
 
-🛟### Ethical AI Safeguards
+### 🛟 Ethical AI Safeguards
 We're committed to developing and implementing safeguards that ensure AI systems operate within ethical boundaries:
 - Bias detection and mitigation strategies
 - Fairness metrics and monitoring
 - Transparency and explainability tools
 - Safety evaluation frameworks
 
-📝### Prompt Engineering Excellence
+### 📝 Prompt Engineering Excellence
 We research and develop best practices for prompt engineering:
 - Systematic prompt testing methodologies
 - Prompt optimization techniques
 - Reliability enhancement through prompt design
 - Version control and management for prompts
 
-🔬### AI Testing Automation
+### 🔬 AI Testing Automation
 Our testing automation initiatives focus on:
 - Automated test case generation
 - Continuous integration for AI systems
 - Regression testing frameworks
 - Performance monitoring tools
 
-✍️### Data Quality for Machine Learning
+### ✍️ Data Quality for Machine Learning
 We help organizations maintain high-quality training data through:
 - Data validation frameworks
 - Dataset bias analysis
 - Data cleaning and preprocessing tools
 - Quality metrics and monitoring systems
 
-🔍## Getting Started
+## 🔍 Getting Started
 Explore our repositories to find tools and resources for:
 - AI testing frameworks
 - Prompt engineering utilities
@@ -48,10 +48,10 @@ Explore our repositories to find tools and resources for:
 - Ethical AI evaluation suites
 - Documentation and guides
 
-📧## Contact
+## 📧 Contact
 - Email: antony.garcia@qawarelabs.com
 
-🪪## License
+## 🪪 License
 All projects under Q-Aware Labs are licensed under the MIT License unless otherwise specified.
 
 ---
