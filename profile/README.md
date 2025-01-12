@@ -1,9 +1,8 @@
 # Q-Aware Labs
 
-## 👋 About Us
 Q-Aware Labs is dedicated to advancing the quality, safety, and reliability of artificial intelligence systems through rigorous testing, ethical safeguards, and data quality improvements. Our mission is to help organizations build more robust, reliable, and responsible AI solutions.
 
-## Our Focus Areas
+## Focus Areas
 
 ### ✅ AI Quality Assurance
 We develop frameworks, tools, and methodologies for comprehensive AI system testing, focusing on:
