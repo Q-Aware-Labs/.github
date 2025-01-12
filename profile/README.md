@@ -5,7 +5,7 @@ Q-Aware Labs is dedicated to advancing the quality, safety, and reliability of a
 
 ## Our Focus Areas
 
-✅### AI Quality Assurance
+### ✅ AI Quality Assurance
 We develop frameworks, tools, and methodologies for comprehensive AI system testing, focusing on:
 - Performance validation across diverse scenarios
 - Robustness testing against edge cases
