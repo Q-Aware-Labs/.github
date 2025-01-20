@@ -54,5 +54,5 @@ Explore my repositories to find tools and resources for:
 All projects under Q-Aware Labs are licensed under the MIT License unless otherwise specified.
 
 ---
-© 2024 Q-Aware Labs. All rights reserved.
+© 2025 Q-Aware Labs. All rights reserved.
 
